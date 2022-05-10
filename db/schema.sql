@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS techub_db;
+
+CREATE DATABASE techub_db;
