@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/toddbauer86/TecHub#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "connect-session-sequelize": "^7.1.3",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.5",
+    "sequelize": "^6.19.0"
   }
 }
