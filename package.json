@@ -1,0 +1,23 @@
+{
+  "name": "techub",
+  "version": "1.0.0",
+  "description": "## User Story As a user I want a website to go to to ask any type of technology questions. I want to be prompted with a login or sign up prompt when I open the page for the first time. If I am a returning member then I will login and see all the most recent questions asked by other site members. If I am new member I will sign in then see the most recent questions asked by other site members. I am given an option on the page to ask a question and post it. If I click on a question then I am prompted with all the other users answers to that specific question.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddbauer86/TecHub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddbauer86/TecHub/issues"
+  },
+  "homepage": "https://github.com/toddbauer86/TecHub#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
