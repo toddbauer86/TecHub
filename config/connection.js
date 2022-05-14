@@ -2,7 +2,7 @@ const Sequelize = require("sequelize");
 
 require("dotenv").config;
 
-const sequelize = new Sequelize("techub_db", "root", "root", {
+const sequelize = new Sequelize("techub_db", "root", "Charlotte!21", {
   host: "localhost",
   dialect: "mysql",
   port: 3306,

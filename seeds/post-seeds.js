@@ -2,23 +2,24 @@ const { Post } = require("../models");
 
 const postdata = [
   {
-    title: "How do I use github?",
+    post_title: "How do I use github?",
+    post_text: "test",
 
     user_id: 1,
   },
   {
-    title: "Does anyone know a good place to learn javascript?",
-
+    post_title: "Does anyone know a good place to learn javascript?",
+    post_text: "test",
     user_id: 4,
   },
   {
-    title: "Where can I get an affordable video card?",
-
+    post_title: "Where can I get an affordable video card?",
+    post_text: "test",
     user_id: 3,
   },
   {
-    title: "Do you want to buy my crypto?",
-
+    post_title: "Do you want to buy my crypto?",
+    post_text: "test",
     user_id: 2,
   },
 ];
